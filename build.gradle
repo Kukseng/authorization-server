@@ -6,7 +6,7 @@ plugins {
 
 group = 'auth.res-server'
 version = '0.0.1-SNAPSHOT'
-description = 'Demo project for Spring Boot with Authorization & Resource Server'
+description = ' Authorization Server'
 
 java {
 	toolchain {
